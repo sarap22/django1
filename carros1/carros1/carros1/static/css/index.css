@@ -1,0 +1,22 @@
+.row{
+    display: flex;
+    padding: 30px;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.card{
+    padding: 20px;
+    width: 20%;
+    
+}
+.card-body{
+    color: #000000;
+}
+#img{
+    width: 100%;
+}
+#img1{
+    height: 40%;
+    width: 100%;
+}
